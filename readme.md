@@ -1,0 +1,6 @@
+Dilip Pokhrel (Project Manager)
+Shristi Bhusal (Product Owner)
+Prem Bahadur Kayat (Lead Developer)
+Raj Malla (Developer)
+Aakash Prasai (Developer)
+Anamika Karki (Developer)
